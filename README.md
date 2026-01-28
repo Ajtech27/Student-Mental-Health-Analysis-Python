@@ -111,4 +111,10 @@ The dataset was cleaned and ready for analysis,
 - Academic performance (CGPA) shows association with mental health conditions
 - Many students experiencing mental health challenges do not seek treatment
 
+---
+
+## 📌 Conclusion
+
+This analysis highlights important mental health trends among students and emphasizes the need for increased awareness and access to mental health support services.
+The project demonstrates practical use of Python, data cleaning, visualization, and exploratory analysis on a real-world dataset.
  
