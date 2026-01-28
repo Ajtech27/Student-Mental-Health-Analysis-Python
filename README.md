@@ -117,4 +117,10 @@ The dataset was cleaned and ready for analysis,
 
 This analysis highlights important mental health trends among students and emphasizes the need for increased awareness and access to mental health support services.
 The project demonstrates practical use of Python, data cleaning, visualization, and exploratory analysis on a real-world dataset.
- 
+
+---
+
+## 🔗 Related Dashboard (Power BI)
+An interactive Power BI dashboard was also created using the same dataset to present key insights visually.
+
+👉 Power BI Project: [https://github.com/Ajtech27/PowerBI-Student_Mental_Health_Analysis]
